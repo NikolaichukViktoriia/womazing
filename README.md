@@ -1,2 +1,0 @@
-# womazing
-Educational project
